@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Luiza!</h1>
-<h3 align="center">An aspiring research scientist from Brazil.</h3>
+<h1 align="left">Hey guys 👋, I'm Luiza!</h1>
 
+<img src="luiza_badge.png" align="left" width="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizapozzobon&label=Profile%20views&color=0e75b6&style=flat" alt="luizapozzobon" /> </p>
 
-- 🔭 I’m currently working on **generalization on deep reinforcement learning**, my dissertation theme at Recod.ai @ Unicamp.
 
-- 💬 Ask me about **python, generative modeling and reinforcement learning.**
+I'm an aspiring research scientist from Brazil, currently writing my dissertation about **generalization on Deep Reinforcement Learning** at Recod.ai @ Unicamp ([#7 LatAm](https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp)). 
 
-- 📫 How to reach me **luiza.pozzobon@gmail.com**
+I also enjoy learning about **probabilistic learning** and **generative modeling**!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luizapozzobon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizapozzobon" height="30" width="40" /></a>
-</p>
+Don't hesitate sending me an email: luiza.pozzobon@gmail.com!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://twitter.com/lulupozz
+[2]: https://www.linkedin.com/in/luizapozzobon/
+
+<br clear="left"/>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)

@@ -8,6 +8,8 @@ I'm an aspiring research scientist from Brazil, currently writing my dissertatio
 
 I also enjoy learning about **probabilistic learning** and **generative modeling**!
 
+I'm currently a Machine Learning Engineer at [Kunumi](https://www.kunumi.com/).
+
 Don't hesitate sending me an email: luiza.pozzobon@gmail.com!
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]

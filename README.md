@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizapozzobon&label=Profile%20views&color=0e75b6&style=flat" alt="luizapozzobon" /> </p>
 
-- 🔭 I’m currently working on **generalization on deep reinforcement learning.**
+- 🔭 I’m currently working on **generalization on deep reinforcement learning**, my dissertation theme at Recod.ai @ Unicamp.
 
 - 💬 Ask me about **python, generative modeling and reinforcement learning.**
 

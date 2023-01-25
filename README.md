@@ -8,7 +8,7 @@ I'm an aspiring research scientist from Brazil, currently writing my dissertatio
 
 I also enjoy learning about **probabilistic learning** and **generative modeling**!
 
-I'm currently a Machine Learning Engineer at [Kunumi](https://www.kunumi.com/).
+I'm currently a Research Scholar at [Cohere for AI]([https://www.kunumi.com/](https://cohere.for.ai/)) where I study toxicity mitigation in Large Language Models.
 
 Don't hesitate sending me an email: luiza.pozzobon@gmail.com!
 
